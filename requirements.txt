@@ -1,0 +1,7 @@
+scikit-learn
+pandas
+seaborn
+openpyxl
+prophet
+geopandas
+filesplit
